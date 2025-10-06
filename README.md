@@ -1,7 +1,46 @@
-# Venture Out Web Application
-### My contribution to a group project to create a functioning, large scale website to simplify tasks at Venture Out, Virginia Tech's on campus outdoor recreation facility.
+# VentureOut Web App
+
+A web project built for **Venture Out**, Virginia Tech’s outdoor recreation program, to manage gear rentals and bookings.
+
 ---
-### In this repo, you'll find two zip files. One houses the screenshots of the working pages for download, and one houses the HTML code themselves.
-Please open the HTML folder in VSCode, or another coding platform similar so you can see the actual code and not the HTML pages without proper formatting.
+
+## 🖼️ Screenshots of the HTML Pages
+
+Home Page:  
+![Home Screenshot](Project_Inventory_Homepage)
+
+Booking Page:  
+![Booking Screenshot](BookingPage.png)
+
 ---
-Due to the structure of the project, I am not able to produce the pages properly as we were using a specific Docker terminal in class to make our pages display properly.
+
+## 📝 Description
+
+This project is a prototype of a web application for managing outdoor equipment reservations. It includes:
+
+- HTML pages showing main workflows
+- Screenshots of app interface
+- Notes on intended functionality and future improvements
+
+---
+
+## ⚙️ How to View
+
+1. Clone or download the repo.  
+2. Open any `.html` file in your browser.  
+3. View screenshots in the repo if you want a quick preview.
+
+---
+
+## 🔮 Future Improvements
+
+- Add interactive forms (JS) and inventory management  
+- Connect to a database for real data  
+- Improve styling / responsive design  
+- Add authentication for staff/admin users
+
+---
+
+## 👩‍💻 Author
+
+Meaghan Danahy – [LinkedIn](https://www.linkedin.com/in/meaghandanahy/)

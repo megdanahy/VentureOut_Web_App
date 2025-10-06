@@ -7,7 +7,7 @@ A web project built for **Venture Out**, Virginia Tech’s outdoor recreation pr
 ## 🖼️ Screenshots of the HTML Pages
 
 Home Page:  
-![Home Screenshot](Project_Inventory_Homepage)
+![Home Screenshot](Project_InventoryMgmt_Homepage)
 
 Booking Page:  
 ![Booking Screenshot](BookingPage.png)

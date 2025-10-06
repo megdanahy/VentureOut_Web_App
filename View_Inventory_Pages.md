@@ -20,7 +20,6 @@ Upon scrolling down you'll find a table of all rental items we have in our datab
 
 If I click on sleeping bag, the table repopulates with only sleeping bags, allowing me to see what we have available.
 
+---
 
-
-Booking Page:  
-![Booking Screenshot](BookingPage.png)
+Author: Meg Danahy

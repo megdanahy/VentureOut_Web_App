@@ -8,7 +8,7 @@ I was responsible for creating rental inventory and product management pages.
 ## 🖼️ Screenshot to Begin:
 
 Product Management Landing Page:  
-!(Project_ProductMgmt_Homepage.png)
+![Product Management Homepage](Project_ProductMgmt_Homepage.png)
 
 From here, you're able to navigate to the Modify Product page, the View Inventory page, or the Delete Product page.
 

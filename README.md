@@ -1,22 +1,26 @@
 # VentureOut Web App
 
 A web project built for **Venture Out**, Virginia Tech’s outdoor recreation program, to manage gear rentals and bookings.
+I was responsible for creating rental inventory and product management pages.
 
 ---
 
-## 🖼️ Screenshots of the HTML Pages
+## 🖼️ Screenshot to Begin:
 
-Home Page:  
-![Home Screenshot](Project_InventoryMgmt_Homepage.png)
+Product Management Landing Page:  
+!(Project_ProductMgmt_Homepage.png)
 
-Booking Page:  
-![Booking Screenshot](BookingPage.png)
+From here, you're able to navigate to the Modify Product page, the View Inventory page, or the Delete Product page.
+
+→ Modify Product
+→ View Inventory
+→ Delete Product
 
 ---
 
 ## 📝 Description
 
-This project is a prototype of a web application for managing outdoor equipment reservations. It includes:
+This project is a prototype of a web application for managing outdoor equipment reservations and event registration. It includes:
 
 - HTML pages showing main workflows
 - Screenshots of app interface
@@ -26,18 +30,16 @@ This project is a prototype of a web application for managing outdoor equipment 
 
 ## ⚙️ How to View
 
-1. Clone or download the repo.  
-2. Open any `.html` file in your browser.  
-3. View screenshots in the repo if you want a quick preview.
+1. View screenshots in the repo if you want a quick preview.
+2. Clone or download the repo.  
+3. Open any `.html` file in your browser. 
 
 ---
 
 ## 🔮 Future Improvements
 
-- Add interactive forms (JS) and inventory management  
-- Connect to a database for real data  
-- Improve styling / responsive design  
-- Add authentication for staff/admin users
+- Download the full project individually for actual use.
+- Connect to a terminal that allows the pages to act as a website.
 
 ---
 

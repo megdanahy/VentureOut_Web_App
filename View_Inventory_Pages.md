@@ -1,6 +1,6 @@
 ## Here are the pages that allow you to view inventory in different ways
 
-###View Inventory Homepage:  
+### View Inventory Homepage:  
 ![View Inventory Homepage](Project_InventoryMgmt_Homepage.png)
 
 This is the landing page when the toolbar or hyperlinked "View Inventory" is clicked on the previous page.

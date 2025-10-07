@@ -13,7 +13,7 @@ Product Management Landing Page:
 From here, you're able to navigate to the Modify Product page, the View Inventory page, or the Delete Product page.
 
 → Modify Product
-→ View Inventory
+→ View Inventory [View Inventory Page](View_Inventory_Pages.md)
 → Delete Product
 
 ---

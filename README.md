@@ -1,4 +1,4 @@
-# VentureOut Web App
+# VentureOut Web Application
 
 A web project built for **Venture Out**, Virginia Tech’s outdoor recreation program, to manage gear rentals and bookings.
 I was responsible for creating rental inventory and product management pages.
@@ -12,9 +12,12 @@ Product Management Landing Page:
 
 From here, you're able to navigate to the Modify Product page, the View Inventory page, or the Delete Product page.
 
-→ Modify Product
+→ Modify Product [View ModifyProduct Page](Modify_Inventory_Pages.md)
+-
 → View Inventory [View Inventory Page](View_Inventory_Pages.md)
-→ Delete Product
+-
+→ Delete Product [View DeleteProduct Page](Delete_Product_Pages.md)
+-
 
 ---
 

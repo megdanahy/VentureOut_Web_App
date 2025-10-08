@@ -1,9 +1,9 @@
-## Here are the pages that allow you to modify the rental inventory in different ways
+# Here are the pages that allow you to modify the rental inventory.
 
 ### Modify Inventory Homepage:  
 ![Modify Inventory Homepage](Project_InventoryMod_Page.png)
 
-This is the landing page when the toolbar or hyperlinked "Modify Inventory" is clicked on the previous page.
+This is the landing page when the toolbar or hyperlinked "Modify Inventory" is clicked on the product management homepage.
 
 ### Inventory Update:
 ![Update Inventory Spots](Project_Inventory_Update_Filledin.png)
@@ -23,4 +23,4 @@ This is the updated SQL database, you can see there is a new item with ProductID
 
 ---
 
-Author: Meg Danahy
+Author: Meg Danahy -> [LinkedIn](https://www.linkedin.com/in/meaghandanahy/)

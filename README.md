@@ -10,7 +10,7 @@ I was responsible for creating rental inventory and product management pages.
 Product Management Landing Page:  
 ![Product Management Homepage](Project_ProductMgmt_Homepage.png)
 
-From here, you're able to navigate to the Modify Product page, the View Inventory page, or the Delete Product page.
+From here, you're able to navigate to the Modify Product page, the View Inventory page, or the Delete Product page via hyperlink on screen, or working toolbar up top. In this porfolio, please click one of the three links below to get to your destination.
 
 → [Modify Inventory](Modify_Inventory.md)
 -
@@ -25,7 +25,7 @@ From here, you're able to navigate to the Modify Product page, the View Inventor
 
 This project is a prototype of a web application for managing outdoor equipment reservations and event registration. It includes:
 
-- HTML pages showing main workflows
+- HTML pages showing main workflow code
 - Screenshots of app interface
 - Notes on intended functionality and future improvements
 
@@ -34,8 +34,7 @@ This project is a prototype of a web application for managing outdoor equipment 
 ## ⚙️ How to View
 
 1. View screenshots in the repo if you want a quick preview.
-2. Clone or download the repo.  
-3. Open any `.html` file in your browser. 
+3. Open any `.html` file in your code software. 
 
 ---
 
